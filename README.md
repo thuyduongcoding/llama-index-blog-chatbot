@@ -13,10 +13,10 @@ Link to the blogs: [https://www.llamaindex.ai/blog](https://www.llamaindex.ai/bl
 2. **`chatbot.ipynb`**  
    Demonstrates the implementation of the RAG system using Llama-Index.
 
-3. **`crawl_content.pkl`**  
+3. **`crawl_content.pkl`**: generated after running the `crawl_data_and_build_from_scratch.ipynb`  
    A serialized file containing the extracted crawl content from the crawling process.
 
-4. **`embedding.pkl`**  
+4. **`embedding.pkl`**: generated after running the `crawl_data_and_build_from_scratch.ipynb`  
    A serialized file containing the embeddings of the crawl content for future use.
 
 ## Chunking Methodology
