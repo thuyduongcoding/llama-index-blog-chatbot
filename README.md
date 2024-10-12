@@ -3,6 +3,7 @@
 ## Overview
 
 This project involves the development of a Retrieval-Augmented Generation (RAG) system using Llama-Index. The system is designed to crawl, preprocess, and utilize the Llama-index blog content. 
+
 Link to the blogs: [https://www.llamaindex.ai/blog](https://www.llamaindex.ai/blog)
 
 ## File Descriptions
